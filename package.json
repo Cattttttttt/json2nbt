@@ -1,0 +1,8 @@
+{
+  "name": "json2nbt",
+  "version": "1.0.0",
+  "description": "JSON to Minecraft NBT",
+  "main": "index.js",
+  "author": "Neko<qwq@dustlover.icu>",
+  "license": "MIT"
+}
