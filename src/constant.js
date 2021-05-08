@@ -1,5 +1,5 @@
 export const NBTINTMAX = 2147483647
-export const NBIINTMIN = -2147483648
+export const NBTINTMIN = -2147483648
 export const NBTSHORTMAX = 32767
 export const NBTSHORTMIN = -32768
 export const NBTBYTEMAX = 127
